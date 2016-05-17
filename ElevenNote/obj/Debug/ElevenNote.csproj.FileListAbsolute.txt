@@ -1,0 +1,486 @@
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\roslyn\csc.exe
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\roslyn\vbc.exe
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\roslyn\VBCSCompiler.exe
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\ElevenNote.dll.config
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\ElevenNote.dll
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\ElevenNote.pdb
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\Antlr3.Runtime.dll
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\ElevenNote.Models.dll
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\ElevenNote.Services.dll
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\EntityFramework.dll
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\EntityFramework.SqlServer.dll
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\Microsoft.Owin.dll
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\Microsoft.Owin.Security.dll
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\Newtonsoft.Json.dll
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\Owin.dll
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\System.Web.Helpers.dll
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\System.Web.Mvc.dll
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\System.Web.Optimization.dll
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\System.Web.Razor.dll
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\System.Web.WebPages.dll
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\System.Web.WebPages.Razor.dll
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\WebGrease.dll
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\ElevenNote.Data.dll
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\ElevenNote.Models.pdb
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\ElevenNote.Services.pdb
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\System.Web.Helpers.xml
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\System.Web.Mvc.xml
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\System.Web.Optimization.xml
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\System.Web.Razor.xml
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\System.Web.WebPages.xml
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\System.Web.WebPages.Razor.xml
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\Antlr3.Runtime.pdb
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\Newtonsoft.Json.xml
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\EntityFramework.xml
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\EntityFramework.SqlServer.xml
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\Microsoft.Owin.xml
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\Microsoft.Owin.Security.xml
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\ElevenNote.Data.pdb
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\obj\Debug\ElevenNote.csprojResolveAssemblyReference.cache
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\obj\Debug\ElevenNote.dll
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\obj\Debug\ElevenNote.pdb
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\System.Net.Http.Formatting.dll
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\System.Web.Http.dll
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\System.Web.Http.WebHost.dll
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\System.Net.Http.Formatting.xml
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\System.Web.Http.xml
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote\bin\System.Web.Http.WebHost.xml
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\roslyn\csc.exe
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\roslyn\vbc.exe
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\ElevenNote.dll.config
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\ElevenNote.dll
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\ElevenNote.pdb
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\Antlr3.Runtime.dll
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\ElevenNote.Models.dll
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\ElevenNote.Services.dll
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\EntityFramework.dll
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\EntityFramework.SqlServer.dll
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\Microsoft.Owin.dll
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\Microsoft.Owin.Security.dll
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\Newtonsoft.Json.dll
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\Owin.dll
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\System.Net.Http.Formatting.dll
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\System.Web.Helpers.dll
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\System.Web.Http.dll
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\System.Web.Http.WebHost.dll
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\System.Web.Mvc.dll
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\System.Web.Optimization.dll
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\System.Web.Razor.dll
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\System.Web.WebPages.dll
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\System.Web.WebPages.Razor.dll
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\WebGrease.dll
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\ElevenNote.Data.dll
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\ElevenNote.Models.pdb
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\ElevenNote.Services.pdb
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\System.Net.Http.Formatting.xml
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\System.Web.Http.xml
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\System.Web.Http.WebHost.xml
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\System.Web.Helpers.xml
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\System.Web.Mvc.xml
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\System.Web.Optimization.xml
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\System.Web.Razor.xml
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\System.Web.WebPages.xml
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\System.Web.WebPages.Razor.xml
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\Antlr3.Runtime.pdb
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\Newtonsoft.Json.xml
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\EntityFramework.xml
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\EntityFramework.SqlServer.xml
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\Microsoft.Owin.xml
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\Microsoft.Owin.Security.xml
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\bin\ElevenNote.Data.pdb
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\obj\Debug\ElevenNote.csprojResolveAssemblyReference.cache
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\obj\Debug\ElevenNote.dll
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote\obj\Debug\ElevenNote.pdb
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\roslyn\csc.exe
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\roslyn\vbc.exe
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\ElevenNote.dll.config
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\ElevenNote.dll
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\ElevenNote.pdb
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\Antlr3.Runtime.dll
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\ElevenNote.Models.dll
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\ElevenNote.Services.dll
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\EntityFramework.dll
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\EntityFramework.SqlServer.dll
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\Microsoft.Owin.dll
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\Microsoft.Owin.Security.dll
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\Newtonsoft.Json.dll
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\Owin.dll
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\System.Net.Http.Formatting.dll
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\System.Web.Helpers.dll
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\System.Web.Http.dll
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\System.Web.Http.WebHost.dll
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\System.Web.Mvc.dll
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\System.Web.Optimization.dll
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\System.Web.Razor.dll
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\System.Web.WebPages.dll
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\System.Web.WebPages.Razor.dll
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\WebGrease.dll
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\ElevenNote.Data.dll
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\ElevenNote.Models.pdb
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\ElevenNote.Services.pdb
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\System.Net.Http.Formatting.xml
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\System.Web.Http.xml
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\System.Web.Http.WebHost.xml
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\System.Web.Helpers.xml
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\System.Web.Mvc.xml
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\System.Web.Optimization.xml
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\System.Web.Razor.xml
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\System.Web.WebPages.xml
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\System.Web.WebPages.Razor.xml
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\Antlr3.Runtime.pdb
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\Newtonsoft.Json.xml
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\EntityFramework.xml
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\EntityFramework.SqlServer.xml
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\Microsoft.Owin.xml
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\Microsoft.Owin.Security.xml
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\bin\ElevenNote.Data.pdb
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\obj\Debug\ElevenNote.csprojResolveAssemblyReference.cache
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\obj\Debug\ElevenNote.dll
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote\obj\Debug\ElevenNote.pdb
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\roslyn\csc.exe
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\roslyn\vbc.exe
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\ElevenNote.dll.config
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\ElevenNote.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\ElevenNote.pdb
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\Antlr3.Runtime.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\ElevenNote.Models.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\ElevenNote.Services.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\EntityFramework.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\EntityFramework.SqlServer.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\Microsoft.Owin.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\Microsoft.Owin.Security.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\Newtonsoft.Json.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\Owin.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\System.Net.Http.Formatting.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\System.Web.Helpers.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\System.Web.Http.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\System.Web.Http.WebHost.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\System.Web.Mvc.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\System.Web.Optimization.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\System.Web.Razor.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\System.Web.WebPages.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\System.Web.WebPages.Razor.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\WebGrease.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\ElevenNote.Data.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\ElevenNote.Models.pdb
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\ElevenNote.Services.pdb
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\System.Net.Http.Formatting.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\System.Web.Http.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\System.Web.Http.WebHost.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\System.Web.Helpers.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\System.Web.Mvc.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\System.Web.Optimization.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\System.Web.Razor.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\System.Web.WebPages.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\System.Web.WebPages.Razor.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\Antlr3.Runtime.pdb
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\Newtonsoft.Json.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\EntityFramework.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\EntityFramework.SqlServer.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\Microsoft.Owin.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\Microsoft.Owin.Security.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\bin\ElevenNote.Data.pdb
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\obj\Debug\ElevenNote.csprojResolveAssemblyReference.cache
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\obj\Debug\ElevenNote.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote\obj\Debug\ElevenNote.pdb
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\roslyn\csc.exe
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\roslyn\vbc.exe
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\ElevenNote.dll.config
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\ElevenNote.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\ElevenNote.pdb
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\Antlr3.Runtime.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\ElevenNote.Models.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\ElevenNote.Services.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\EntityFramework.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\EntityFramework.SqlServer.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\Microsoft.Owin.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\Microsoft.Owin.Security.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\Newtonsoft.Json.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\Owin.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\System.Net.Http.Formatting.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\System.Web.Helpers.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\System.Web.Http.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\System.Web.Http.WebHost.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\System.Web.Mvc.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\System.Web.Optimization.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\System.Web.Razor.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\System.Web.WebPages.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\System.Web.WebPages.Razor.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\WebGrease.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\ElevenNote.Data.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\ElevenNote.Models.pdb
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\ElevenNote.Services.pdb
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\System.Net.Http.Formatting.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\System.Web.Http.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\System.Web.Http.WebHost.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\System.Web.Mvc.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\System.Web.Helpers.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\System.Web.Optimization.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\System.Web.Razor.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\System.Web.WebPages.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\System.Web.WebPages.Razor.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\Antlr3.Runtime.pdb
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\Newtonsoft.Json.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\EntityFramework.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\EntityFramework.SqlServer.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\Microsoft.Owin.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\Microsoft.Owin.Security.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\bin\ElevenNote.Data.pdb
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\obj\Debug\ElevenNote.csprojResolveAssemblyReference.cache
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\obj\Debug\ElevenNote.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote\obj\Debug\ElevenNote.pdb
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\roslyn\csc.exe
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\roslyn\vbc.exe
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\ElevenNote.dll.config
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\ElevenNote.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\ElevenNote.pdb
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\Antlr3.Runtime.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\ElevenNote.Models.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\ElevenNote.Services.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\EntityFramework.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\EntityFramework.SqlServer.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\Microsoft.Owin.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\Microsoft.Owin.Security.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\Newtonsoft.Json.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\Owin.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\System.Net.Http.Formatting.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\System.Web.Helpers.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\System.Web.Http.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\System.Web.Http.WebHost.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\System.Web.Mvc.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\System.Web.Optimization.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\System.Web.Razor.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\System.Web.WebPages.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\System.Web.WebPages.Razor.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\WebGrease.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\ElevenNote.Data.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\ElevenNote.Models.pdb
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\ElevenNote.Services.pdb
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\System.Net.Http.Formatting.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\System.Web.Http.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\System.Web.Http.WebHost.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\System.Web.Mvc.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\System.Web.Helpers.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\System.Web.Optimization.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\System.Web.Razor.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\System.Web.WebPages.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\System.Web.WebPages.Razor.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\Antlr3.Runtime.pdb
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\Newtonsoft.Json.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\EntityFramework.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\EntityFramework.SqlServer.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\Microsoft.Owin.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\Microsoft.Owin.Security.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\bin\ElevenNote.Data.pdb
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\obj\Debug\ElevenNote.csprojResolveAssemblyReference.cache
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\obj\Debug\ElevenNote.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote\obj\Debug\ElevenNote.pdb

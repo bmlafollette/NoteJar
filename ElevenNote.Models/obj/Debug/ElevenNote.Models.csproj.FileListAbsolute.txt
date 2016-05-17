@@ -1,0 +1,32 @@
+c:\users\fred miles\documents\visual studio 2015\Projects\ElevenNote\ElevenNote.Models\bin\Debug\ElevenNote.Models.dll
+c:\users\fred miles\documents\visual studio 2015\Projects\ElevenNote\ElevenNote.Models\bin\Debug\ElevenNote.Models.pdb
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\bin\Debug\ElevenNote.Models.dll
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\bin\Debug\ElevenNote.Models.pdb
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.csprojResolveAssemblyReference.cache
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.dll
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.pdb
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\bin\Debug\ElevenNote.Models.dll
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\bin\Debug\ElevenNote.Models.pdb
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote.Models\obj\Debug\ElevenNote.Models.csprojResolveAssemblyReference.cache
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote.Models\obj\Debug\ElevenNote.Models.dll
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote.Models\obj\Debug\ElevenNote.Models.pdb
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\bin\Debug\ElevenNote.Models.dll
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\bin\Debug\ElevenNote.Models.pdb
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote.Models\obj\Debug\ElevenNote.Models.csprojResolveAssemblyReference.cache
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote.Models\obj\Debug\ElevenNote.Models.dll
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote.Models\obj\Debug\ElevenNote.Models.pdb
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\bin\Debug\ElevenNote.Models.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\bin\Debug\ElevenNote.Models.pdb
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote.Models\obj\Debug\ElevenNote.Models.csprojResolveAssemblyReference.cache
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote.Models\obj\Debug\ElevenNote.Models.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote.Models\obj\Debug\ElevenNote.Models.pdb
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\bin\Debug\ElevenNote.Models.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\bin\Debug\ElevenNote.Models.pdb
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote.Models\obj\Debug\ElevenNote.Models.csprojResolveAssemblyReference.cache
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote.Models\obj\Debug\ElevenNote.Models.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote.Models\obj\Debug\ElevenNote.Models.pdb
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\bin\Debug\ElevenNote.Models.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\bin\Debug\ElevenNote.Models.pdb
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote.Models\obj\Debug\ElevenNote.Models.csprojResolveAssemblyReference.cache
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote.Models\obj\Debug\ElevenNote.Models.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote.Models\obj\Debug\ElevenNote.Models.pdb

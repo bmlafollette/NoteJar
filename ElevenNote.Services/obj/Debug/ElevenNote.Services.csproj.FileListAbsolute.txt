@@ -1,0 +1,38 @@
+c:\users\fred miles\documents\visual studio 2015\Projects\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Services.dll
+c:\users\fred miles\documents\visual studio 2015\Projects\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Services.pdb
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\bin\Debug\ElevenNote.Services.dll.config
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\bin\Debug\ElevenNote.Services.dll
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\bin\Debug\ElevenNote.Services.pdb
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.csprojResolveAssemblyReference.cache
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.dll
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.pdb
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\bin\Debug\ElevenNote.Services.dll.config
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\bin\Debug\ElevenNote.Services.dll
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\bin\Debug\ElevenNote.Services.pdb
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote.Services\obj\Debug\ElevenNote.Services.csprojResolveAssemblyReference.cache
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote.Services\obj\Debug\ElevenNote.Services.dll
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote.Services\obj\Debug\ElevenNote.Services.pdb
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\bin\Debug\ElevenNote.Services.dll.config
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\bin\Debug\ElevenNote.Services.dll
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\bin\Debug\ElevenNote.Services.pdb
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote.Services\obj\Debug\ElevenNote.Services.csprojResolveAssemblyReference.cache
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote.Services\obj\Debug\ElevenNote.Services.dll
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote.Services\obj\Debug\ElevenNote.Services.pdb
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\bin\Debug\ElevenNote.Services.dll.config
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\bin\Debug\ElevenNote.Services.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\bin\Debug\ElevenNote.Services.pdb
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote.Services\obj\Debug\ElevenNote.Services.csprojResolveAssemblyReference.cache
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote.Services\obj\Debug\ElevenNote.Services.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba\1150-team-badass\ElevenNote.Services\obj\Debug\ElevenNote.Services.pdb
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote.Services\obj\Debug\ElevenNote.Services.csprojResolveAssemblyReference.cache
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote.Services\obj\Debug\ElevenNote.Services.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\ElevenNote.Services\obj\Debug\ElevenNote.Services.pdb
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\bin\Debug\ElevenNote.Services.dll.config
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\bin\Debug\ElevenNote.Services.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\teamba2\1150-team-badass\bin\Debug\ElevenNote.Services.pdb
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\bin\Debug\ElevenNote.Services.dll.config
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\bin\Debug\ElevenNote.Services.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\bin\Debug\ElevenNote.Services.pdb
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote.Services\obj\Debug\ElevenNote.Services.csprojResolveAssemblyReference.cache
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote.Services\obj\Debug\ElevenNote.Services.dll
+C:\Users\Bobbie\Desktop\ElevenFifty\NoteJar\ElevenNote.Services\obj\Debug\ElevenNote.Services.pdb
